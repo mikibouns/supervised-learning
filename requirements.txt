@@ -1,0 +1,11 @@
+# python 3.9
+
+jupyterlab==4.2.5
+pandas==1.2.4
+scikit-learn==1.5.2
+seaborn==0.11.1
+shap==0.42.0
+phik==0.12.4
+numpy==1.26.4
+matplotlib==3.3.4
+ipywidgets==8.1.5
